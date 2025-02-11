@@ -1,0 +1,6 @@
+terminal: 
+1.  git clone  https://github.com/PetroYar/server.git
+2. fnm use || nvm use to use correct node version 
+3. npm install
+4. run application: npm run start
+   run application for development: npm run dev
